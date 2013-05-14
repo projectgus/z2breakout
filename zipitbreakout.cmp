@@ -1,0 +1,31 @@
+Cmp-Mod V01 Genere par PcbNew le Sun 15 Apr 2012 14:43:05 EST
+
+BeginCmp
+TimeStamp = /4F890DFA;
+Reference = J1;
+ValeurCmp = USB_2;
+IdModule  = USB_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F89143B;
+Reference = J2;
+ValeurCmp = USB_1;
+IdModule  = USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F890F23;
+Reference = P1;
+ValeurCmp = DIL38;
+IdModule  = DIL36;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F89261B;
+Reference = P2;
+ValeurCmp = ST60X-36S;
+IdModule  = st60x-36s;
+EndCmp
+
+EndListe
