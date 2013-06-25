@@ -1,31 +1,101 @@
-Cmp-Mod V01 Genere par PcbNew le Sun 15 Apr 2012 14:43:05 EST
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 24 Jun 2013 11:29:22 EST
 
 BeginCmp
-TimeStamp = /4F890DFA;
-Reference = J1;
-ValeurCmp = USB_2;
-IdModule  = USB_B;
+TimeStamp = /51A2980D;
+Reference = C1;
+ValeurCmp = 3.3uF;
+IdModule  = SM1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /4F89143B;
-Reference = J2;
-ValeurCmp = USB_1;
-IdModule  = USB_A;
+TimeStamp = /51A29C2C;
+Reference = C2;
+ValeurCmp = 4.7uF;
+IdModule  = SM1206;
 EndCmp
 
 BeginCmp
-TimeStamp = /4F890F23;
-Reference = P1;
-ValeurCmp = DIL38;
-IdModule  = DIL36;
+TimeStamp = /51C79D77;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C79D84;
+Reference = JP2;
+ValeurCmp = JUMPER;
+IdModule  = SJ_SHORTED;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A06520;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A70A3B;
+Reference = L1;
+ValeurCmp = 1 uH;
+IdModule  = SM1210;
 EndCmp
 
 BeginCmp
 TimeStamp = /4F89261B;
-Reference = P2;
-ValeurCmp = ST60X-36S;
+Reference = P1;
+ValeurCmp = Z2DOCK;
 IdModule  = st60x-36s;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C7AB11;
+Reference = P2;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A06F0F;
+Reference = P3;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A070BC;
+Reference = P4;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A1EF9E;
+Reference = P5;
+ValeurCmp = CONN_9X2;
+IdModule  = pin_array_12x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A2956E;
+Reference = REG1;
+ValeurCmp = TPS61240;
+IdModule  = TPS61240DRVT;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B270C;
+Reference = USB1;
+ValeurCmp = USB;
+IdModule  = USBA_MOLEX_89485-8003;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B2959;
+Reference = USB2;
+ValeurCmp = USB;
+IdModule  = USBMICROB_MOLEX_47642-0001;
 EndCmp
 
 EndListe
