@@ -1,5 +1,5 @@
-update=Mon 24 Jun 2013 11:21:56 EST
-last_client=cvpcb
+update=Sat 20 Jul 2013 20:47:53 EST
+last_client=pcbnew
 [general]
 version=1
 [eeschema]
@@ -65,26 +65,32 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=zipitz2
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=
 UseCmpFile=1
-PadDrill="    0.600000"
-PadDrillOvalY="    0.600000"
-PadSizeH="    1.400000"
-PadSizeV="    1.400000"
+PadDrill="    0.000000"
+PadDrillOvalY="    0.000000"
+PadSizeH="    2.000000"
+PadSizeV="    2.500000"
 PcbTextSizeV="    1.500000"
 PcbTextSizeH="    1.500000"
 PcbTextThickness="    0.300000"
 ModuleTextSizeV="    1.500000"
 ModuleTextSizeH="    1.500000"
 ModuleTextSizeThickness="    0.150000"
-SolderMaskClearance="    0.200000"
+SolderMaskClearance="    0.100000"
 SolderMaskMinWidth="    0.000000"
-DrawSegmentWidth="    0.200000"
+DrawSegmentWidth="    0.300000"
 BoardOutlineThickness="    0.150000"
 ModuleOutlineThickness="    0.150000"
 [pcbnew/libraries]
+LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -100,9 +106,4 @@ LibName12=st60x-36s
 LibName13=tps61240drvt
 LibName14=molex_usb
 LibName15=/home/gus/ft/kicad_library/freetronics_kicad_pcb_lib
-LibDir=
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+LibName16=do214ba

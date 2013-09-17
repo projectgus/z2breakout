@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 24 Jun 2013 11:29:22 EST
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 05 Aug 2013 08:40:55 EST
 
 BeginCmp
 TimeStamp = /51A2980D;
@@ -29,7 +29,7 @@ IdModule  = SJ_SHORTED;
 EndCmp
 
 BeginCmp
-TimeStamp = /51A06520;
+TimeStamp = /51FEE8D7;
 Reference = K1;
 ValeurCmp = CONN_3;
 IdModule  = PIN_ARRAY_3X1;
@@ -50,17 +50,10 @@ IdModule  = st60x-36s;
 EndCmp
 
 BeginCmp
-TimeStamp = /51C7AB11;
+TimeStamp = /51FEF1C0;
 Reference = P2;
-ValeurCmp = CONN_5;
-IdModule  = PIN_ARRAY_5x1;
-EndCmp
-
-BeginCmp
-TimeStamp = /51A06F0F;
-Reference = P3;
-ValeurCmp = CONN_4;
-IdModule  = PIN_ARRAY_4x1;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
 EndCmp
 
 BeginCmp
@@ -74,7 +67,7 @@ BeginCmp
 TimeStamp = /51A1EF9E;
 Reference = P5;
 ValeurCmp = CONN_9X2;
-IdModule  = pin_array_12x2;
+IdModule  = pin_array_9x2;
 EndCmp
 
 BeginCmp
@@ -95,7 +88,7 @@ BeginCmp
 TimeStamp = /519B2959;
 Reference = USB2;
 ValeurCmp = USB;
-IdModule  = USBMICROB_MOLEX_47642-0001;
+IdModule  = USBMICROB_HIROSE_ZX62_B_5PA;
 EndCmp
 
 EndListe
