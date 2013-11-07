@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 05 Aug 2013 08:40:55 EST
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Thu 07 Nov 2013 19:24:37 EST
 
 BeginCmp
 TimeStamp = /51A2980D;
@@ -68,6 +68,20 @@ TimeStamp = /51A1EF9E;
 Reference = P5;
 ValeurCmp = CONN_9X2;
 IdModule  = pin_array_9x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /527B4C75;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /527B4C66;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = SM0603;
 EndCmp
 
 BeginCmp
