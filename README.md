@@ -1,8 +1,8 @@
+**This is an abandoned alpha-quality design at this point, unless someone wants to pick it up. I built some prototypes in late 2013 and the USB connector & boost converter are verified, but there's some [known problems with the connector pinout](https://github.com/projectgus/z2breakout/issues/1) and the silkscreen is also pretty messy, the whole board probably needs to grow for more labelling space.**
+
 ## Z2 Breakout module
 
 A breakout board for the "ZipIt Z2" dock connector. Alpha-quality at the moment.
-
-**Prototypes of this board have not been built or tested yet.**
 
 Design files created with Kicad 2013-Mar-13-testing (this version or newer is probably required.)
 
